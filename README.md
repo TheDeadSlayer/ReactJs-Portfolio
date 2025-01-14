@@ -28,10 +28,9 @@ Follow these steps to run the portfolio locally:
 ## 🚀 Deployment
 This website is deployed on Vercel for live hosting. Here are the steps to deploy the app using Vercel:
 
-1.Create an account or log in to Vercel.
-2.Click on "New Project."
-3.Connect your GitHub repository (where this portfolio is hosted).
+1. Create an account or log in to Vercel.
+2. Click on "New Project."
+3. Connect your GitHub repository (where this portfolio is hosted).
 4. Select the repository and deploy it.
-
 
 
