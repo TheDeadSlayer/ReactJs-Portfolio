@@ -1,3 +1,4 @@
+
 export const Bio = {
   name: "Person",
   roles: [
@@ -9,7 +10,7 @@ export const Bio = {
     "Programmer",
   ],
   description:
-    "Test",
+    "About Info  About Info Test About Info Test About Info Test  About Info Test About Info Test About Info Test About Info  About Info Test About Info Test About Info Test  About Info Test About Info Test About Info Test About Info  About Info Test About Info Test About Info Test  About Info Test About Info Test About Info Test About Info  About Info Test About Info Test About Info Test  About Info Test About Info Test About Info Test About Info  About Info Test About Info Test About Info Test  About Info Test About Info Test About Info Test ",
   github: "https://github.com/TheDeadSlayer",
   resume:
     "",
@@ -81,11 +82,23 @@ export const skills = [
         image:
           "https://static-00.iconduck.com/assets.00/ansible-icon-2048x2048-mc4z634w.png",
       },
+
+      {
+        name: "Prometheus",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/800px-Prometheus_software_logo.svg.png",
+      },
       {
         name: "Shell Scripting",
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/768px-Bash_Logo_Colored.svg.png?20180723054350",
       },
+      {
+        name: "GoLang",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png",
+      },
+
       {
         name: "CI/CD",
         image:
@@ -280,6 +293,11 @@ export const skills = [
           "https://static-00.iconduck.com/assets.00/netlify-icon-2048x2048-vn9f0x8q.png",
       },
       
+      {
+        name: "Vercel",
+        image:
+          "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-256x256.png",
+      },
       
       {
         name: "Jira",
@@ -299,14 +317,14 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://53.fs1.hubspotusercontent-na1.net/hub/53/hubfs/image8-2.jpg?width=600&name=image8-2.jpg",
+    img: "https://www.naceweb.org/images/default-source/2023/feature/work-modality-the-changing-nature-of-where-we-work-xlarge.jpg",
     role: "Test",
     company: "Test",
-    date: "xxx 2025 - Present",
+    date: "Jan 2025 - Present",
     desc: "",
     skills: [
-
       "Test",
+
     ],
     doc: "",
   },
@@ -316,41 +334,41 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://53.fs1.hubspotusercontent-na1.net/hub/53/hubfs/image8-2.jpg?width=600&name=image8-2.jpg",
-    school: "test",
-    date: "xxx 2023 - Present",
-    grade: "Test",
+    img: "https://www.naceweb.org/images/default-source/2023/feature/work-modality-the-changing-nature-of-where-we-work-xlarge.jpg",
+    school: "Test",
+    date: "Jan 2025 - Present",
+    grade: " Test",
     desc: "Test",
     degree: "Test",
   },
-
+  
 ];
 
 export const projects = [
   {
     id: 0,
     title: "Test",
-    date: "xxx 2023 - xxx 2023",
+    date: "Oct 2025 - Jul 2025",
     description:
-      "Test",
+      "",
     image:
-      "https://53.fs1.hubspotusercontent-na1.net/hub/53/hubfs/image8-2.jpg?width=600&name=image8-2.jpg",
+      "https://www.naceweb.org/images/default-source/2023/feature/work-modality-the-changing-nature-of-where-we-work-xlarge.jpg",
     tags: [
       "Test",
 
     ],
-    category: "All",
+    category: ["devops","ml","other"],
     github: "",
     webapp: "",
+
     member: [
       {
-        name: "Test",
+        name: "test",
         img: "",
         linkedin: "",
         github: "",
       },]
   },
-  
 ];
 
 
